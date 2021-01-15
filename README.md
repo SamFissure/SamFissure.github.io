@@ -1,5 +1,6 @@
 # SamFissure.github.io
 Main Page
+--------------------------------------------------------------------
 Open for entry-level jobs FYI https://www.linkedin.com/in/rpbaumeister/
 
 I realize that most of my projects are in C languages, but I find them rewarding to work with
